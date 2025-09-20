@@ -37,14 +37,7 @@ const HomePage = () => {
             Start Chat
           </button>
         </div>
-
-        {/* Image */}
-        <div className="mt-6">
-
-            alt="Circle Pic"
-            className="rounded-full border-4 border-indigo-300 shadow-lg"
-          /
-        </div>
+       
       </div>
     </div>
   );
